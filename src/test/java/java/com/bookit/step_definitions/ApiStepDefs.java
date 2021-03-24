@@ -18,7 +18,7 @@ import java.util.Map;
 import static io.restassured.RestAssured.given;
 
 public class ApiStepDefs {
-    //added something
+
 
     String token;
     Response response;
